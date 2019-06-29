@@ -1582,6 +1582,14 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+.bg-img {
+  background-image: url("../images/bc8.jpg");
+background-size: 1300px 600px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;

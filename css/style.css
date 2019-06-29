@@ -95,7 +95,7 @@ ul.nav.navbar li a.w3ls-icon:hover {
 /*-- //top-nav --*/
 /*-- banner --*/  
 .video {
-	background:url(../images/cv.jpg)no-repeat;
+	background:../images/bc3.png;
     background-position:0px 0px;
 	text-align: left;
 	min-height: 100%;
@@ -934,6 +934,7 @@ p.agile-br {
     padding: .5em 3em; 
     font-size: 0.9em;
 }
+
 
 }
 /*-- //responsive-design --*/
